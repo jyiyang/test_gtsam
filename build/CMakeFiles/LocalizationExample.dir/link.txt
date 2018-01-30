@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -O3   CMakeFiles/LocalizationExample.dir/src/LocalizationExample.cpp.o  -o LocalizationExample -rdynamic /usr/local/lib/libgtsam.so.4.0.0 -lboost_serialization -lboost_system -lboost_filesystem -lboost_thread -lboost_date_time -lboost_timer -lboost_chrono -ltbb -ltbbmalloc /usr/local/lib/libmetis.so -lm -Wl,-rpath,/usr/local/lib 
